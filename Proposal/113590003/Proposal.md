@@ -68,3 +68,11 @@
   - [ ] 製作遊戲簡報
   - [ ] 驗收並提交
 
+# OOP修課證明
+
+<img width="1440" height="135" alt="image" src="https://github.com/user-attachments/assets/871cdf46-f1dc-4f92-8e91-7852d5962ae2" />
+
+# 長頸鹿大冒險通關證明
+<img width="1280" height="748" alt="image" src="https://github.com/user-attachments/assets/f88936ae-a844-40d6-87a6-406fd220bc3c" />
+<img width="874" height="470" alt="image" src="https://github.com/user-attachments/assets/94664714-f292-454e-90ab-f87f93a7666d" />
+
